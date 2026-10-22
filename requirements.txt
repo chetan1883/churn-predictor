@@ -1,0 +1,8 @@
+   streamlit
+   pandas
+   numpy
+   matplotlib
+   seaborn
+   plotly
+   joblib
+   scikit-learn==1.7.2
